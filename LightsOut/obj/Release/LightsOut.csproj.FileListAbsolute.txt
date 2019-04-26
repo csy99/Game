@@ -1,0 +1,11 @@
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\bin\Release\LightsOut.exe.config
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\bin\Release\LightsOut.exe
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\bin\Release\LightsOut.pdb
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Release\LightsOut.csprojAssemblyReference.cache
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Release\LightsOut.Form1.resources
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Release\LightsOut.Form2.resources
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Release\LightsOut.csproj.GenerateResource.cache
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Release\LightsOut.csproj.CoreCompileInputs.cache
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Release\LightsOut.exe
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Release\LightsOut.pdb

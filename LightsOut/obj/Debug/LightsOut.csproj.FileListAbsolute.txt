@@ -1,0 +1,21 @@
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\bin\Debug\LightsOut.exe.config
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\bin\Debug\LightsOut.exe
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\bin\Debug\LightsOut.pdb
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\obj\Debug\LightsOut.csprojAssemblyReference.cache
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.cache
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.CoreCompileInputs.cache
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\obj\Debug\LightsOut.exe
+C:\Users\madha\Desktop\CS\CS 371\LightsOut\LightsOut\obj\Debug\LightsOut.pdb
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\bin\Debug\LightsOut.exe.config
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\bin\Debug\LightsOut.exe
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\bin\Debug\LightsOut.pdb
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Debug\LightsOut.csprojAssemblyReference.cache
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.cache
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.CoreCompileInputs.cache
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Debug\LightsOut.exe
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Debug\LightsOut.pdb
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Debug\LightsOut.Form1.resources
+C:\Users\CSY\Desktop\IS371\project\LightsOut\LightsOut\obj\Debug\LightsOut.Form2.resources
