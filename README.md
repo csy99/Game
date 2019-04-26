@@ -14,6 +14,8 @@ Users can press Difficulty button to choose a different board size (Currently on
 
 ## Possible Improvements:
 
-Automatically resize the form and rearrange the buttons appropriately, according to the board size of lights.
-Add a score board. Save different users’ score in a file. Display the highest score at the end of each game.
-Find solutions for each lights pattern and compute the minimum move required. Offer hints when user get stuck.
+1. Automatically resize the form and rearrange the buttons appropriately, according to the board size of lights.
+
+2. Add a score board. Save different users’ score in a file. Display the highest score at the end of each game.
+
+3. Find solutions for each lights pattern and compute the minimum move required. Offer hints when user get stuck.
