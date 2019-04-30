@@ -48,7 +48,7 @@
             this.question.Name = "question";
             this.question.Size = new System.Drawing.Size(356, 75);
             this.question.TabIndex = 1;
-            this.question.Text = "What board size do you want? (Please enter an integer between 3 and 7)";
+            this.question.Text = "What board size do you want? (Please enter an integer between 3 and 10)";
             this.question.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             // 
             // submit

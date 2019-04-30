@@ -34,7 +34,7 @@ namespace LightsOut
                 size = 5;
                 return;
             }
-            if(size < 3 || size > 7)  // sanity check
+            if(size < 3 || size > 10)  // sanity check
             {
                 MessageBox.Show("Please enter an integer with in the range.");
                 return;
