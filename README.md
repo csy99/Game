@@ -14,7 +14,7 @@ Users can press Difficulty button to choose a different board size (Currently on
 
 ## Possible Improvements:
 
-1. Automatically resize the form and rearrange the buttons appropriately, according to the board size of lights.
+1. Automatically resize the form and rearrange the buttons appropriately, according to the board size of lights. (completed)
 
 2. Add a score board. Save different users’ score in a file. Display the highest score at the end of each game.
 
